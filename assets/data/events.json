@@ -1,0 +1,312 @@
+[
+    {
+        "id": 1,
+        "title": "DUSA FUN DAY",
+        "date": "5th October",
+        "images": [
+            "https://picsum.photos/seed/1/400/320",
+            "https://picsum.photos/seed/2/400/320",
+            "https://picsum.photos/seed/3/400/320",
+            "https://picsum.photos/seed/4/400/320"
+        ],
+        "description": "Join us for an unforgettable day of fun and entertainment!",
+        "location": "Main Arena",
+        "remainingTickets": 145,
+        "totalTickets": 200,
+        "tickets": [
+            {
+                "type": "Advance",
+                "price": 1500,
+                "available": true,
+                "count": 0,
+                "subTotal": 0
+            },
+            {
+                "type": "VIP",
+                "price": 3000,
+                "available": false,
+                "count": 0,
+                "subTotal": 0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Black History Month",
+        "date": "14th December",
+        "images": [
+            "https://picsum.photos/seed/5/400/320",
+            "https://picsum.photos/seed/6/400/320",
+            "https://picsum.photos/seed/7/400/320",
+            "https://picsum.photos/seed/8/400/320"
+        ],
+        "description": "Celebrate Black History Month with inspiring stories and events.",
+        "location": "Auditorium",
+        "remainingTickets": 80,
+        "totalTickets": 150,
+        "tickets": [
+            {
+                "type": "Advance",
+                "price": 1500,
+                "available": false,
+                "count": 0,
+                "subTotal": 0
+            },
+            {
+                "type": "VIP",
+                "price": 3000,
+                "available": false,
+                "count": 0,
+                "subTotal": 0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Bare",
+        "date": "19th December",
+        "images": [
+            "https://picsum.photos/seed/9/400/320",
+            "https://picsum.photos/seed/10/400/320",
+            "https://picsum.photos/seed/11/400/320",
+            "https://picsum.photos/seed/12/400/320"
+        ],
+        "description": "An intimate evening of raw and unfiltered performances.",
+        "location": "Community Center",
+        "remainingTickets": 50,
+        "totalTickets": 100,
+        "tickets": [
+            {
+                "type": "Advance",
+                "price": 1500,
+                "available": false,
+                "count": 0,
+                "subTotal": 0
+            },
+            {
+                "type": "VIP",
+                "price": 3000,
+                "available": false,
+                "count": 0,
+                "subTotal": 0
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "The Awakening",
+        "date": "31st December",
+        "images": [
+            "https://picsum.photos/seed/13/400/320",
+            "https://picsum.photos/seed/14/400/320",
+            "https://picsum.photos/seed/15/400/320",
+            "https://picsum.photos/seed/16/400/320"
+        ],
+        "description": "Ring in the new year with a night of reflection and renewal.",
+        "location": "Main Arena",
+        "remainingTickets": 100,
+        "totalTickets": 200,
+        "tickets": [
+            {
+                "type": "Advance",
+                "price": 1500,
+                "available": false,
+                "count": 0,
+                "subTotal": 0
+            },
+            {
+                "type": "VIP",
+                "price": 3000,
+                "available": false,
+                "count": 0,
+                "subTotal": 0
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Winter Wonderland",
+        "date": "15th November",
+        "images": [
+            "https://picsum.photos/seed/17/400/320",
+            "https://picsum.photos/seed/18/400/320",
+            "https://picsum.photos/seed/19/400/320",
+            "https://picsum.photos/seed/20/400/320"
+        ],
+        "description": "Experience the magic of winter with festive activities and performances.",
+        "location": "City Park",
+        "remainingTickets": 200,
+        "totalTickets": 300,
+        "tickets": [
+            {
+                "type": "Standard",
+                "price": 1000,
+                "available": true,
+                "count": 0,
+                "subTotal": 0
+            },
+            {
+                "type": "Family",
+                "price": 5000,
+                "available": true,
+                "count": 0,
+                "subTotal": 0
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Tech Innovation Summit",
+        "date": "10th January",
+        "images": [
+            "https://picsum.photos/seed/21/400/320",
+            "https://picsum.photos/seed/22/400/320",
+            "https://picsum.photos/seed/23/400/320",
+            "https://picsum.photos/seed/24/400/320"
+        ],
+        "description": "Join industry leaders as they share insights on the latest technology trends.",
+        "location": "Convention Center",
+        "remainingTickets": 120,
+        "totalTickets": 200,
+        "tickets": [
+            {
+                "type": "Early Bird",
+                "price": 2000,
+                "available": true,
+                "count": 0,
+                "subTotal": 0
+            },
+            {
+                "type": "General",
+                "price": 3500,
+                "available": false,
+                "count": 0,
+                "subTotal": 0
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Art & Culture Festival",
+        "date": "22nd January",
+        "images": [
+            "https://picsum.photos/seed/25/400/320",
+            "https://picsum.photos/seed/26/400/320",
+            "https://picsum.photos/seed/27/400/320",
+            "https://picsum.photos/seed/28/400/320"
+        ],
+        "description": "Celebrate the diversity of art and culture with performances and exhibitions.",
+        "location": "City Gallery",
+        "remainingTickets": 60,
+        "totalTickets": 100,
+        "tickets": [
+            {
+                "type": "Regular",
+                "price": 1200,
+                "available": true,
+                "count": 0,
+                "subTotal": 0
+            },
+            {
+                "type": "VIP",
+                "price": 2500,
+                "available": true,
+                "count": 0,
+                "subTotal": 0
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Health & Wellness Expo",
+        "date": "5th February",
+        "images": [
+            "https://picsum.photos/seed/29/400/320",
+            "https://picsum.photos/seed/30/400/320",
+            "https://picsum.photos/seed/31/400/320",
+            "https://picsum.photos/seed/32/400/320"
+        ],
+        "description": "Discover new trends in health and wellness at this informative expo.",
+        "location": "Expo Hall",
+        "remainingTickets": 80,
+        "totalTickets": 150,
+        "tickets": [
+            {
+                "type": "Single Day",
+                "price": 1500,
+                "available": true,
+                "count": 0,
+                "subTotal": 0
+            },
+            {
+                "type": "Full Access",
+                "price": 4000,
+                "available": false,
+                "count": 0,
+                "subTotal": 0
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Valentine's Dance Night",
+        "date": "14th February",
+        "images": [
+            "https://picsum.photos/seed/33/400/320",
+            "https://picsum.photos/seed/34/400/320",
+            "https://picsum.photos/seed/35/400/320",
+            "https://picsum.photos/seed/36/400/320"
+        ],
+        "description": "Celebrate love with a night of dancing and romance.",
+        "location": "Sky Lounge",
+        "remainingTickets": 50,
+        "totalTickets": 100,
+        "tickets": [
+            {
+                "type": "Couple",
+                "price": 3000,
+                "available": true,
+                "count": 0,
+                "subTotal": 0
+            },
+            {
+                "type": "Single",
+                "price": 1500,
+                "available": true,
+                "count": 0,
+                "subTotal": 0
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Outdoor Adventure Day",
+        "date": "25th February",
+        "images": [
+            "https://picsum.photos/seed/37/400/320",
+            "https://picsum.photos/seed/38/400/320",
+            "https://picsum.photos/seed/39/400/320",
+            "https://picsum.photos/seed/40/400/320"
+        ],
+        "description": "Experience nature with a day filled with outdoor activities and fun.",
+        "location": "Nature Reserve",
+        "remainingTickets": 150,
+        "totalTickets": 200,
+        "tickets": [
+            {
+                "type": "Adult",
+                "price": 2000,
+                "available": true,
+                "count": 0,
+                "subTotal": 0
+            },
+            {
+                "type": "Child",
+                "price": 1000,
+                "available": true,
+                "count": 0,
+                "subTotal": 0
+            }
+        ]
+    }
+]
